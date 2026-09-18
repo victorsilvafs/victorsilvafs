@@ -1,8 +1,9 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=F70707&width=435&lines=%F0%9F%92%A2+Ol%C3%A1!+Sou+Victor+Silva;+Aprendizagem+constante++!!!" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=F70707&width=500&lines=%F0%9F%92%BB+Ol%C3%A1!+Sou+Victor+Silva;+Estudante+de+TI+%26+Desenvolvedor+!!!" alt="Typing SVG" /></a>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/illustrations/Developer%20activity-bro.png" alt="ilustração de desenvolvimento" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> Sou Victor Silva, estudante de Sistemas de Informação e apaixonado por tecnologia e desenvolvimento de sistemas. Minha formação e meus projetos são voltados para a área de TI, especialmente desenvolvimento web e Python. Amo aprender novas tecnologias, criar soluções e enfrentar novos desafios. 🚀
+
 
 ### 🌐 Connect with me
 
