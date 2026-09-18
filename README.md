@@ -1,8 +1,22 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=F70707&width=500&lines=%F0%9F%92%BB+Ol%C3%A1!+Sou+Victor+Silva;+Estudante+de+TI+%26+Desenvolvedor+!!!" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=F70707&width=500&lines=%F0%9F%92%BB+Ol%C3%A1!+Sou+Victor+Silva;+Tecnologia%2C+C%C3%B3digo+%26+Aprendizado+!!!" alt="Typing SVG" /></a>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/illustrations/Developer%20activity-bro.png" alt="ilustração de desenvolvimento" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif"
+  alt="ilustração de programação"
+  min-width="400px"
+  max-width="400px"
+  width="400px"
+  align="right">
 
 <p align="left"> Sou Victor Silva, estudante de Sistemas de Informação e apaixonado por tecnologia e desenvolvimento de sistemas. Minha formação e meus projetos são voltados para a área de TI, especialmente desenvolvimento web e Python. Amo aprender novas tecnologias, criar soluções e enfrentar novos desafios. 🚀
+
+### 🌐 Connect with me
+
+<div> 
+
+<a href="https://instagram.com/euvictorfsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/victor-eduardo-freitas-silva-253954283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
 
 
 ### 🌐 Connect with me
