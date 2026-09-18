@@ -10,12 +10,11 @@ Sou Victor Silva, estudante de Sistemas de Informação e apaixonado por tecnolo
 
 <h3>🌐 Connect with me</h3>
 
-<a href="[SEU_INSTAGRAM](https://www.instagram.com/euvictorfsilva)">
+<a href="https://www.instagram.com/euvictorfsilva" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-
-<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/victor-eduardo-freitas-silva-253954283/)">
+<a href="https://www.linkedin.com/in/victor-eduardo-freitas-silva-253954283/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
